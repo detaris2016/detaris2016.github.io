@@ -1,9 +1,9 @@
 /* Main css */
 
 b {
-font-size: 24px;
+font-size: 32px;
 font-family: monospace;
-color: #ffffff;
+color: red;
     text-shadow: 2px 2px #222;
 
 }
