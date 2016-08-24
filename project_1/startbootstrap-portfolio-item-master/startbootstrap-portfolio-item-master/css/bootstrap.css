@@ -26,6 +26,7 @@ nav,
 section,
 summary {
   display: block;
+    background-color: aqua;
 }
 audio,
 canvas,
@@ -43,7 +44,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+
 }
 a:active,
 a:hover {
