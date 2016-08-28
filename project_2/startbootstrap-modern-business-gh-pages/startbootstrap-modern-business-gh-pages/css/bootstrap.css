@@ -5,12 +5,12 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+    font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
+    margin: 0;
 }
 article,
 aside,
@@ -25,7 +25,8 @@ menu,
 nav,
 section,
 summary {
-  display: block;
+    
+    display: block;
 }
 audio,
 canvas,
@@ -43,7 +44,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  background-color: chocolate;
 }
 a:active,
 a:hover {

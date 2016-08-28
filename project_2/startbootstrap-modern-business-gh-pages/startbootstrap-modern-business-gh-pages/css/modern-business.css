@@ -8,6 +8,7 @@
 
 html,
 body {
+    background-color: antiquewhite;
     height: 100%;
 }
 
@@ -70,6 +71,7 @@ header.carousel .fill {
 /* Footer Styles */
 
 footer {
+    
     margin: 50px 0;
 }
 
