@@ -1,0 +1,10 @@
+
+body {
+    background-image: url(images/BC.jpg);
+    background-position: center;
+    font-family: monospace;
+    color: green;
+}
+h1 {
+    font-style: oblique;
+}
