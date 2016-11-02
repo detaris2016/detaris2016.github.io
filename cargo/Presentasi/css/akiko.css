@@ -1,0 +1,8 @@
+#tracking {
+    -webkit-box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.58);
+    -moz-box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.58);
+    box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.58);
+}
+section {
+    position: relative;
+}

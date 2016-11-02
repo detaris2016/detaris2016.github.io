@@ -1,0 +1,59 @@
+.navbar-custom.affix {
+    background-color: rgb(63, 36, 136);
+}
+
+section h2.section-heading {
+    color: #3f2488;
+}
+.service-heading {
+    margin: 35px 0;
+    text-transform: none;
+    color: #3f2488;
+}
+section h3.section-heading {
+    color: #3f2488;
+}
+section h3.section-subheading {
+    margin-bottom: 40px;
+}
+header {
+    background-image: url(../img/cover5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+.navbar-custom .navbar-brand {
+    color: #fed136;
+    font-family:Helvetica,Arial,cursive;
+}
+.navbar-custom .navbar-brand {
+    font-size: 3em;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+.p {
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 0 0 1px;
+}
+
+.tracking {
+    height: 170px;
+}
+.btn green {
+    border-radius: 12px;
+    background-color: #3f2488;
+}
+.intro-lead-in {
+font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;font-size:40px;line-height:100px;margin-bottom:25px;
+}
+.intro-text {
+    padding-top: 200px;
+}
