@@ -1,0 +1,26 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+header.carousel {
+    height: 60%;
+}
+h1 {
+    color: #113285;
+}
+body {
+  margin: 0;    
+}
+.panel panel-default {
+    border-color: coral;
+    background-color: aqua;
+}
+panel-heading{
+    background-color: fuchsia;
+}
+
+footer {
+    text-decoration-color: #113285;
+    margin: 10px 0px;
+}

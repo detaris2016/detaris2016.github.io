@@ -1,3 +1,6 @@
+body {
+    background-image: white;
+}
 .navbar-custom.affix {
     background-color: rgb(63, 36, 136);
 }
@@ -17,7 +20,7 @@ section h3.section-subheading {
     margin-bottom: 40px;
 }
 header {
-    background-image: url(../img/cover5.jpg);
+    background-image: white;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
